@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79da26f5-7277-475e-a4ff-694ca40ea137" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/components/nav.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/components/pokemanCard.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/+layout.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/+page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/about/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/api/pokemon/+server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/api/pokemon/[id]/+server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/pokemon/[id]/+page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/pokemon/[id]/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sveltekit-pokedex/src/stores/pokestore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokedex.iml" afterDir="false" />
-    </list>
+    <list default="true" id="79da26f5-7277-475e-a4ff-694ca40ea137" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,17 +27,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gregormair/Documents/svelte/pokedex/my-sveltekit-pokedex/src/routes/api/pokemon/id",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Users/gregormair/Documents/svelte/pokedex/my-sveltekit-pokedex/node_modules/typescript/lib"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gregormair/Documents/svelte/pokedex/my-sveltekit-pokedex/src/routes/api/pokemon/id&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/gregormair/Documents/svelte/pokedex/my-sveltekit-pokedex/node_modules/typescript/lib&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/api/pokemon/id" />
