@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79da26f5-7277-475e-a4ff-694ca40ea137" name="Changes" comment="renaming">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sveltekit/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sveltekit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sveltekit/src/routes/about/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/src/routes/about/+page.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sveltekit/svelte.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/svelte.config.js" afterDir="false" />
+    <list default="true" id="79da26f5-7277-475e-a4ff-694ca40ea137" name="Changes" comment="add cloudflare adpater">
+      <change beforePath="$PROJECT_DIR$/sveltekit/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/src/routes/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685902166881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add cloudflare adpater">
+      <created>1685903289122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685903289122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renaming" />
-    <option name="LAST_COMMIT_MESSAGE" value="renaming" />
+    <MESSAGE value="add cloudflare adpater" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cloudflare adpater" />
   </component>
 </project>
