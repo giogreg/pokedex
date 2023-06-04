@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79da26f5-7277-475e-a4ff-694ca40ea137" name="Changes" comment="" />
+    <list default="true" id="79da26f5-7277-475e-a4ff-694ca40ea137" name="Changes" comment="renaming">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sveltekit/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sveltekit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sveltekit/src/routes/about/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/src/routes/about/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sveltekit/svelte.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/sveltekit/svelte.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +56,17 @@
       <recent name="$PROJECT_DIR$/my-sveltekit-pokedex/src/routes/about" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.dev (1)">
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/sveltekit/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/my-sveltekit-pokedex/package.json" />
       <command value="run" />
@@ -60,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev (1)" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -75,6 +95,14 @@
       <workItem from="1685827582485" duration="10429000" />
       <workItem from="1685895101448" duration="4724000" />
     </task>
+    <task id="LOCAL-00001" summary="renaming">
+      <created>1685902166881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685902166881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="renaming" />
+    <option name="LAST_COMMIT_MESSAGE" value="renaming" />
   </component>
 </project>
